@@ -32,9 +32,8 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/nri-homepage-clone.git](https://github.com/YOUR-USERNAME/nri-homepage-clone.git)
+    git clone https://github.com/omprakash1310/Nri_Legal
     ```
-    *(Replace with your own GitHub repo URL)*
 
 2.  **Navigate to the project directory:**
     ```bash
@@ -53,7 +52,3 @@ To get a local copy up and running, follow these simple steps.
 
 5.  Open your browser and visit `http://localhost:5173/`.
 
----
-
-
-This project is a clone created for learning purposes only. All credit for the original design and content goes to **[NRI Legal Services](https://www.nrilegalservices.com/)**.
